@@ -1,3 +1,7 @@
+### This fork is published as socket.io-stream-patched on npm.
+
+# Original Readme
+
 # Socket.IO stream
 
 [![Build Status](https://travis-ci.org/nkzawa/socket.io-stream.png?branch=master)](https://travis-ci.org/nkzawa/socket.io-stream)
